@@ -4,7 +4,9 @@
     <fullyQualifiedTypeName name="main.MinsToYears"/>
     <fullyQualifiedTypeName name="main.MonthInWords"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="test.CalculatorTest"/>
     <fullyQualifiedTypeName name="main.Calculator"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="test.FactorialTest"/>
+    <fullyQualifiedTypeName name="main.Factorial"/>
 </qualifiedTypeNameHistroy>
